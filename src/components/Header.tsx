@@ -18,7 +18,7 @@ export default function Header() {
   ];
   return (
     <header className="w-full fixed">
-      <div className="px-14 py-4 flex justify-between items-center backdrop-blur-sm font-['Neue Montreal']">
+      <div className="px-14 py-4 flex justify-between items-center backdrop-blur-sm font-neue-montreal">
         <div className="logo">
           <svg
             width="72"

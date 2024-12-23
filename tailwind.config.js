@@ -16,6 +16,10 @@ export default {
         md: "768px",
         lg: "1200px",
       },
+      fontFamily: {
+        'neue-montreal': ['"Neue Montreal"', 'sans-serif'],
+        'heading':['"Lilita One"', 'serif'],
+      },
     },
   },
   plugins: [],
